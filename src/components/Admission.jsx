@@ -9,7 +9,7 @@ const Admission = ({ variant = 'default' }) => {
         to="/admission-form" 
         className="inline-flex items-center gap-2 font-black text-secondary uppercase tracking-widest text-sm animate-text-glow"
       >
-        ADMISSION NOW ✨
+        ADMISSION NOWW ✨
 
         <style jsx>{`
           @keyframes text-glow {
