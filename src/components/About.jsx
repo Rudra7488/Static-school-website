@@ -29,7 +29,7 @@ const About = () => {
           <div className="absolute -top-10 -left-10 w-32 h-32 bg-accent/10 rounded-full blur-2xl"></div>
 
           <h3 className="text-4xl md:text-5xl font-black font-header mb-8 text-primary leading-tight">
-            About Our <br />
+            About Ourssss <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-secondary to-primary">Institution</span>
           </h3>
 
